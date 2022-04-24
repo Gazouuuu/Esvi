@@ -38,7 +38,7 @@ local y = MainUI.AddPage("Fun Stuff")
 
 local FirstLabel = FirstPage.AddLabel("Silent Aimlock")
 
-local FirstLabel = ThirdPage.AddLabel("Faces And Korblox w Headless | Client Sided")
+local FirstLabel = ThirdPage.AddLabel("Faces And Korblox w Headless | Client Sided"),
 
 local FirstLabel = FourthPage.AddLabel("Animations | FE")
 
